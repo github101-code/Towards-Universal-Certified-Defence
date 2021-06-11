@@ -30,7 +30,7 @@
     python code/certify.py --dataset cifar10 --base_classifier $pretrained_classifier --sigma 0.25 --outfile $output --skip 20 --denoiser $denoiser
     ```
 
-5. To run the experiments for baselines we refer to denoised-smoothing [here](https://github.com/microsoft/denoised-smoothing)
+5. To run the experiments for baselines refer to denoised-smoothing [here](https://github.com/microsoft/denoised-smoothing)
 
 6. To generate plots and tables with comparisions on our results directly run:
     ```
