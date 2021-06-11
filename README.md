@@ -22,6 +22,8 @@
     python train_reconstructer.py --dataset cifar10 --pretrained $pretrained_classifier --save_dir $save_dir --noise_sd $noise_sd --name $name
     ```
 
+4. Our pretrained-reconstructer model weights are available [here](https://drive.google.com/file/d/1ckm54r3B5i4snOTYz5NcFD09_MqH8XQv/view?usp=sharing)
+
 4. To generate certification output for a standard deviation of 0.25 on CIFAR10 dataset for our methodology:
     ```
     pretrained_classifier="path to the pretrained classification model"
