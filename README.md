@@ -11,7 +11,7 @@
 
     ```
 
-2. To download the pretrained models we urge the user to refer denoised-smoothing [here](https://github.com/microsoft/denoised-smoothing)
+2. To download the pretrained models refer to denoised-smoothing [here](https://github.com/microsoft/denoised-smoothing)
 
 3. To train the UNet model for CIFAR10 dataset using our methodology for a standard deviation of 0.25: 
     ```
